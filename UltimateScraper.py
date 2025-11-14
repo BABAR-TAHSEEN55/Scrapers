@@ -119,7 +119,7 @@ try:
                 current_url = fullUrl
                 links.append(fullUrl)
                 current_url = fullUrl
-                time.sleep(3)
+                time.sleep(1)
                 # print(href)
             else:
                 break
